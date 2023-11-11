@@ -9,7 +9,7 @@
   "type": "module",
   "exports": {
     "require": "./lib/index.cjs",
-    "import": "./lib/index.js"
+    "import": "./lib/index2.js"
   },
   "files": [
     "./lib"
